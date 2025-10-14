@@ -1,4 +1,4 @@
-package ar.edu.undec.adapter.piloto.excepciones;
+package exception;
 
 public class DniYaExisteException extends RuntimeException {
     public DniYaExisteException(String message) {
